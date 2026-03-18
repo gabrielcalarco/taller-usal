@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "74ca4413-4f4d-447e-acd6-3e3f79dde7a5",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-03-18T16:00:06.970Z",
   "created_by": "gabrielcalarco",
   "title": "Taller USAL Ejemplo",
   "slug": "taller-usal-ejemplo",
-  "updated_at": "2026-03-18T16:00:06.970Z",
+  "updated_at": "2026-03-18T16:07:58.002Z",
   "updated_by": "gabrielcalarco",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "74ca4413-4f4d-447e-acd6-3e3f79dde7a5"
   }
